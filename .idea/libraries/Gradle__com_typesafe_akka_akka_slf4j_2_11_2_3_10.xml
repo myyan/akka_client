@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.typesafe.akka:akka-slf4j_2.11:2.3.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.3.10/5a4a141b550e187a7f622b810472fa2236984ebb/akka-slf4j_2.11-2.3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.3.10/731b84c10c3d19d2b4988843a81f64a26e0c28b7/akka-slf4j_2.11-2.3.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
